@@ -1,0 +1,12 @@
+name: NLPEffects
+version: '${project.version}'
+main: de.stevenpaw.nlp_effects.main.Main
+api-version: 1.18
+authors: [ StevenPaw ]
+description: Nordland-Park-Minecraft-Plugin
+website: http://nordland-park.de/
+
+commands:
+  nlpeffects:
+    description: Creates, Edits or Removes Effects
+    aliases: [nlpe]
